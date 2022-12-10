@@ -37,5 +37,6 @@ Incluir aspas em nomes de arquivo com espaços
 git add .
 
 git add *
-
+## folha de dicas
+[tips and tricks](https://education.github.com/git-cheat-sheet-education.pdf)
 © 2022 Zépa Software
